@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\DevoirDemainR6\bin\Debug\DevoirDemainR6.exe.config
+C:\Users\admin\Desktop\DevoirDemainR6\bin\Debug\DevoirDemainR6.exe
+C:\Users\admin\Desktop\DevoirDemainR6\bin\Debug\DevoirDemainR6.pdb
+C:\Users\admin\Desktop\DevoirDemainR6\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\DevoirDemainR6\obj\Debug\DevoirDemainR6.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DevoirDemainR6\obj\Debug\DevoirDemainR6.Form1.resources
+C:\Users\admin\Desktop\DevoirDemainR6\obj\Debug\DevoirDemainR6.Properties.Resources.resources
+C:\Users\admin\Desktop\DevoirDemainR6\obj\Debug\DevoirDemainR6.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DevoirDemainR6\obj\Debug\DevoirDemainR6.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DevoirDemainR6\obj\Debug\DevoirDemainR6.csproj.CopyComplete
+C:\Users\admin\Desktop\DevoirDemainR6\obj\Debug\DevoirDemainR6.exe
+C:\Users\admin\Desktop\DevoirDemainR6\obj\Debug\DevoirDemainR6.pdb
